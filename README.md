@@ -1,2 +1,2 @@
 # SpaceInvader
-An unfinished game arcade game implemented in Java
+An unfinished arcade game implemented in Java
